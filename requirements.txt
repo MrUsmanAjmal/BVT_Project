@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+tensorflow
+opencv-python
+numpy
+pandas
+matplotlib
+tqdm
+scipy
+scikit-learn
+einops
+transformers
+requests
+
